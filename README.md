@@ -17,5 +17,6 @@ HTML, PHP, JavaScript, CSS, MySQL
 
 ## Screenshots (Of some major components only)
 
-![Login]
-
+![Login]![image](https://github.com/user-attachments/assets/7a6bab02-ba6b-4c7d-8e59-4ccadff74933)
+![image](https://github.com/user-attachments/assets/07d18117-031f-48d2-af4b-bc6bcba010ab)
+![image](https://github.com/user-attachments/assets/3ca628f6-a5e2-4663-abc9-40523a170b9f)
