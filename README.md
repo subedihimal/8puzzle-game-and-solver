@@ -1,5 +1,5 @@
 
-# 8-Puzzle Game and Solver
+# 8Puzzle Game and Solver
 
 A web based application that allows users to play as well as solve 8puzzle. 
 
