@@ -1,7 +1,7 @@
 
 # 8Puzzle Game and Solver
 
-A web based application that allows users to play as well as solve 8puzzle. 
+A web based application that allows users to play as well as solve 8puzzle. It is made by me as part of my 6th semester Project.
 
 
 
